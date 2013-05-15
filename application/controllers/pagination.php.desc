@@ -1,0 +1,1 @@
+This is the Controller file used to load/initialize and use the Pagination helper and to retrieve a segment of an array of names. It's located under /application/controllers.
